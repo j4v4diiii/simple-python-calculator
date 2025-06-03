@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Editor backup files
+*~
+.DS_Store
